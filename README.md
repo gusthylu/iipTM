@@ -1,4 +1,5 @@
 # iipTM
+
 文件说明：
 
 1.data文件夹下存放了实验用的数据集，请保证版本一致 
@@ -13,6 +14,6 @@
   
 
 
-代码运行说明:
+代码运行说明：
 
-BTM-master: 由python和c++编写，在linux下运行，具体使用方法，见链接
+BTM-master: 由python和c++编写，在linux下运行，具体使用方法，见链接https://github.com/xiaohuiyan/BTM
